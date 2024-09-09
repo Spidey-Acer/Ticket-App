@@ -10,7 +10,6 @@
   - Deployment
   - Any new Next.js 14 features
 
-<a href="https://www.youtube.com/claritycoders" target="_blank">Clarity Coders YouTube</a>
 
 # NextJS 13.4 Trainer App!
 
